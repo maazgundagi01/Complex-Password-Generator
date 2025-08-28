@@ -8,7 +8,7 @@
 ### Generates Complex Passwords of your specifications. 
 You get to decide how many characters, numbers and symbols you want in your password.
 
-### A simple Python script that generates secure, randomized passwords based on user preferences.
+## A simple Python script that generates secure, randomized passwords based on user preferences.
 Features
 
 - Customizable password length with separate counts for letters, numbers, and symbols

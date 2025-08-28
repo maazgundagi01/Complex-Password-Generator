@@ -113,4 +113,4 @@ with st.expander("ℹ️ Password Security Tips"):
 
 # Footer
 st.markdown("---")
-st.markdown("*Built with ❤️ using Streamlit*")
+st.markdown("*Built with ❤️ by Maaz Gundagi*")
